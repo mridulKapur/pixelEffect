@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: black;
+    overflow: hidden;
+}
+
+#canvas1{
+    /* border:3px solid white; */
+    position:absolute;
+    top:0%;
+    left:0%;
+    
+}
